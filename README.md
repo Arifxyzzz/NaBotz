@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="Naa Botz" width="100"/>
 
 
 </p>
@@ -42,7 +42,7 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
+> NaaBotz adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). NaaBotz is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
 
 ## Support Language
 
