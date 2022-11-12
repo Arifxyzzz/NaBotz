@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "NaaBotz" //namabot kalian
+global.botname = "Ziz | Botz" //namabot kalian
 global.ownername= "Arifxyz" //nama kalian
 global.myweb ="https://github.com/Arifxyzzz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/arifxyz" //bebas asal jan hapus
